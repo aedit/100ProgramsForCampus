@@ -8,38 +8,38 @@
 
 | Questions                                                                                                                                                                                                                                             | CPP                                | Python | JavaScript |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ------ | ---------- |
-| 1. Write a program to find the reverse of a given string.                                                                                                                                                                                             | [View](../master/Cpp/1.ReverseOfString.cpp) | View   | View       |
-| 2. Write a program to check the given string is palindrome or not.                                                                                                                                                                                    | [View](../master/Cpp/2.Palindrome.cpp) |
-| 3. Write a program to reverse the given number.                                                                                                                                                                                                       | [View](../master/Cpp/3.NumberReverse.cpp) |
-| 4. A Fibonacci sequence is defined as follows: The first and second terms in the sequence are 0 and 1. Subsequent terms are found by adding the preceding two terms in the sequence. Write a C program to generate the first n terms of the sequence. | [View](../master/Cpp/4.FibonacciSeries.cpp) |
-| 5. Write a program to find the factorial of a given number.                                                                                                                                                                                           | [View](../master/Cpp/5.Factorial.cpp) |
-| 6. Write a program to find the factorial of a given number using recursion.                                                                                                                                                                           | [View](../master/Cpp/6.FactorialRecursion.cpp) |
-| 7. Write a program to print the Fibonacci series using recursion.                                                                                                                                                                                     | [View](../master/Cpp/7.FibonacciRecursion.cpp) |
-| 8. Write a program finds the GCD of two given integers using recursion.                                                                                                                                                                               | [View](../master/Cpp/8.GCDOf2Numbers.cpp) |
-| 9. Write a C program to check the given number is prime number or not.                                                                                                                                                                                | [View](../master/Cpp/9.PrimeNumber.cpp) |
-| 10. Write a function to interchange two integer values using call-by-value technique.                                                                                                                                                                 | [View](../master/Cpp/10.SwapCallByValue.cpp) |
-| 11. Write a function to interchange two integer values using call by reference technique.                                                                                                                                                             | [View](../master/Cpp/11.SwapCallByReference.cpp) |
-| 12. Write a program to find the power (a, b) using recursion.                                                                                                                                                                                         | [View](../master/Cpp/12.PowerRecursion.cpp) |
-| 13. Write a program to print the following (pyramid of numbers).                                                                                                                                                                                      | [View](../master/Cpp/13.PyramidOfNumbers.cpp) |
-| 14. Write a program to find the gcd of the given 2 numbers.                                                                                                                                                                                           | [View](../master/Cpp/14.GCDOf3Numbers.cpp) |
-|15. Write a C program that uses functions to perform the following operations: i. To insert a sub-string in to given main string from a given position. ii. To delete n Characters from a given position in a given string. iii. To replace a character of string either from beginning or ending or at a specified location.| [View](../master/Cpp/15.StringManipulation.cpp) |
-|16. Write a program to swap two values without using temporary variable.| [View](../master/Cpp/16.SwapWOVariable.cpp) |
-|17. Write a program to check the given year is leap year or not.| [View](../master/Cpp/17.LeapYear.cpp) |
-|18. Wap to implement linear search using recursion.| [View](../master/Cpp/18.LinearSearchRecursion.cpp) |
-|19. Wap implement linear search without using recursion.| [View](../master/Cpp/19.LinearSearchLoop.cpp) |
-|20. Wap to implement Binary search using recursion.| [View](../master/Cpp/20.BinarySearchRecursion.cpp) |
-|21. Wap implement Binary search without using recursion.| [View](../master/Cpp/21.BinarySearchLoop.cpp) |
-|22. Write a function to sort 1d integer array using Bubble sort.| [View](../master/Cpp/22.BubbleSort.cpp) |
+| 1. Write a program to find the reverse of a given string.                                                                                                                                                                                             | [View](../master/Cpp/01.cpp) | [View](../master/Python/01.py)   | View       |
+| 2. Write a program to check the given string is palindrome or not.                                                                                                                                                                                    | [View](../master/Cpp/02.cpp) | [View](../master/Python/02.py) |
+| 3. Write a program to reverse the given number.                                                                                                                                                                                                       | [View](../master/Cpp/03.cpp) | [View] (../master/Python/03.py) |
+| 4. A Fibonacci sequence is defined as follows: The first and second terms in the sequence are 0 and 1. Subsequent terms are found by adding the preceding two terms in the sequence. Write a C program to generate the first n terms of the sequence. | [View](../master/Cpp/04.cpp) |
+| 5. Write a program to find the factorial of a given number.                                                                                                                                                                                           | [View](../master/Cpp/05.cpp) |
+| 6. Write a program to find the factorial of a given number using recursion.                                                                                                                                                                           | [View](../master/Cpp/06.cpp) |
+| 7. Write a program to print the Fibonacci series using recursion.                                                                                                                                                                                     | [View](../master/Cpp/07.cpp) |
+| 8. Write a program finds the GCD of two given integers using recursion.                                                                                                                                                                               | [View](../master/Cpp/08.cpp) |
+| 9. Write a C program to check the given number is prime number or not.                                                                                                                                                                                | [View](../master/Cpp/09.cpp) |
+| 10. Write a function to interchange two integer values using call-by-value technique.                                                                                                                                                                 | [View](../master/Cpp/10.cpp) |
+| 11. Write a function to interchange two integer values using call by reference technique.                                                                                                                                                             | [View](../master/Cpp/11.cpp) |
+| 12. Write a program to find the power (a, b) using recursion.                                                                                                                                                                                         | [View](../master/Cpp/12.cpp) |
+| 13. Write a program to print the following (pyramid of numbers).                                                                                                                                                                                      | [View](../master/Cpp/13.cpp) |
+| 14. Write a program to find the gcd of the given 2 numbers.                                                                                                                                                                                           | [View](../master/Cpp/14.cpp) |
+|15. Write a C program that uses functions to perform the following operations: i. To insert a sub-string in to given main string from a given position. ii. To delete n Characters from a given position in a given string. iii. To replace a character of string either from beginning or ending or at a specified location.| [View](../master/Cpp/15.cpp) |
+|16. Write a program to swap two values without using temporary variable.| [View](../master/Cpp/16.cpp) |
+|17. Write a program to check the given year is leap year or not.| [View](../master/Cpp/17.cpp) |
+|18. Wap to implement linear search using recursion.| [View](../master/Cpp/18.cpp) |
+|19. Wap implement linear search without using recursion.| [View](../master/Cpp/19.cpp) |
+|20. Wap to implement Binary search using recursion.| [View](../master/Cpp/20.cpp) |
+|21. Wap implement Binary search without using recursion.| [View](../master/Cpp/21.cpp) |
+|22. Write a function to sort 1d integer array using Bubble sort.| [View](../master/Cpp/22.cpp) |
 |23. Write a function to sort 1d integer array using Selection sort.|
 |24. Write a function to sort 1d integer array using Insertion sort.|
 |25. Write a function to sort 1d integer array using Merge sort.|
-|26. Write a program to find both the largest and smallest number of an array of integers.| [View](../master/Cpp/26.MaxAndMin.cpp) |
-|27. Write a program to find the smallest and largest element in a two dimensional array.| [View](../master/Cpp/27.MaxAndMin2D.cpp) |
-|28. Write a C function to generate Pascal's triangle.| [View](../master/Cpp/28.PascalTraingle.cpp) |
-|29. Write a function to convert a string into its opposite case.| [View](../master/Cpp/29.StringOppositeCase.cpp) |
-|30. Write a program to print the grade of the student as follows: If m>=60 print grade as FIRST If m>=50 and m<60 print grade as SECOND If m>=40 and m<50 print grade as THIRD If m<40 and print grade as FAILED| [View](../master/Cpp/30.GradeSystem.cpp) |
-|31. Write a C program to find the sum of individual digits of a positive integer.| [View](../master/Cpp/31.SumOfDigits.cpp) |
-|32. Wap for Matrix multiplication by checking compatibility.| [View](../master/Cpp/32.MatrixMultiplication.cpp) |
+|26. Write a program to find both the largest and smallest number of an array of integers.| [View](../master/Cpp/26.cpp) |
+|27. Write a program to find the smallest and largest element in a two dimensional array.| [View](../master/Cpp/27.cpp) |
+|28. Write a C function to generate Pascal's triangle.| [View](../master/Cpp/28.cpp) |
+|29. Write a function to convert a string into its opposite case.| [View](../master/Cpp/29.cpp) |
+|30. Write a program to print the grade of the student as follows: If m>=60 print grade as FIRST If m>=50 and m<60 print grade as SECOND If m>=40 and m<50 print grade as THIRD If m<40 and print grade as FAILED| [View](../master/Cpp/30.cpp) |
+|31. Write a C program to find the sum of individual digits of a positive integer.| [View](../master/Cpp/31.cpp) |
+|32. Wap for Matrix multiplication by checking compatibility.| [View](../master/Cpp/32.cpp) |
 |33. Write a function which takes 1d integer array as an argument and return the maximum value.|
 |34. Write a function which takes a matrix as an argument and return its transpose.|
 |35. Write a program to copy the string into another string using pointers.|
