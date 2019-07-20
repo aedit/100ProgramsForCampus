@@ -1,23 +1,23 @@
 #include <iostream>
 using namespace std;
 
+string a[10] = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
 
+string printdigitstowords(int n){
+	
+	if(!n) 
+	  	return "";
+	cout << printdigitstowords(n/10) << " ";
+	
+	return a[n%10];
+	
+}
 int main(){
 	int n;
-	cout << "Enter Decimal Number: \n";
+	cout << "Enter Number: \n";
 	cin >> n;
-	int a[10];
-	int pos= 0;
 	
-	while(n){
-		a[pos++] = n%8;
-		n/=8;
-		
-	}
-	
-	for(int i=pos-1; i>=0; i--){
-		cout << a[i];
-	}
+	cout << printdigitstowords(n);
 	
 	return 0;
 }
